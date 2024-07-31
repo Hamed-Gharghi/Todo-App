@@ -22,9 +22,11 @@ The **To-Do List Application** is a desktop application built using Python and P
 Here are some screenshots of the To-Do List Application:
 
 1. **Main Window:**
+---
    ![Main Window](screenshots/main_window.png)
 
 2. **Add/Edit Task Form:**
+ ---
    ![Add/Edit Task Form](screenshots/add_edit_task_form.png)
 
 
