@@ -1,4 +1,12 @@
-# -*- coding: utf-8 -*-
+"""
+To-Do List Application
+
+Author: Hamed Gharghi
+Date: 2024
+Description: A simple To-Do List application built with PyQt5.
+Allows users to add, edit, and delete tasks.
+Tasks are managed using an SQLite database, and users can set priorities and due dates for their tasks.
+"""
 import sqlite3
 
 # Form implementation generated from reading ui file 'To-Do-List.ui'
