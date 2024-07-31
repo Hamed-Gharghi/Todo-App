@@ -27,8 +27,6 @@ Here are some screenshots of the To-Do List Application:
 2. **Add/Edit Task Form:**
    ![Add/Edit Task Form](screenshots/add_edit_task_form.png)
 
-3. **Task List:**
-   ![Task List](screenshots/task_list.png)
 
 ## Installation
 
